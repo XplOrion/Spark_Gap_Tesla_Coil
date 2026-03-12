@@ -42,4 +42,4 @@ When the coil operates, high-voltage streamers preferentially strike this ground
 Press the push-button → coil powers up → long streamer arcs appear.
 Release → coil turns off.
 
-Simple, reliable, no electronics in the HV path — full arc performance achieved.
+Simple, reliable and full arc performance achieved.
